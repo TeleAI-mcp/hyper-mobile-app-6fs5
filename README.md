@@ -1,2 +1,3 @@
-# hyper-mobile-app-6fs5
-Automated issue comment bot repository
+# Hyper Mobile App 6Fs5
+
+Automated issue comment bot repository.
